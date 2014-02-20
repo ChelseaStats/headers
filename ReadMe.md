@@ -62,21 +62,37 @@
  
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	
 	<link rel="shortcut icon" href="/favicon.png" type="image/png">
  
 	<!-- Apple Touch Icons -->
 	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144-precomposed.png">
+	
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
+	
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
+	
 	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57-precomposed.png">
  
 	<!-- Apple Startup Images -->
-	<link rel="apple-touch-startup-image" href="apple-touch-startup-image-320x460.png" media="(device-width: 320px)">
-	<link rel="apple-touch-startup-image" href="apple-touch-startup-image-640x920.png" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)">
-	<link rel="apple-touch-startup-image" href="apple-touch-startup-image-768x1004.png" media="(device-width: 768px) and (orientation: portrait)">
-	<link rel="apple-touch-startup-image" href="apple-touch-startup-image-748x1024.png" media="(device-width: 768px) and (orientation: landscape)">
-	<link rel="apple-touch-startup-image" href="apple-touch-startup-image-1536x2008.png" media="(device-width: 1536px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)">
-	<link rel="apple-touch-startup-image" href="apple-touch-startup-image-2048x1496.png" media="(device-width: 1536px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)">
+	
+	<link rel="apple-touch-startup-image" href="apple-touch-startup-image-320x460.png" 
+	media="(device-width: 320px)">
+	
+	<link rel="apple-touch-startup-image" href="apple-touch-startup-image-640x920.png" 
+	media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)">
+	
+	<link rel="apple-touch-startup-image" href="apple-touch-startup-image-768x1004.png" 
+	media="(device-width: 768px) and (orientation: portrait)">
+	
+	<link rel="apple-touch-startup-image" href="apple-touch-startup-image-748x1024.png" 
+	media="(device-width: 768px) and (orientation: landscape)">
+	
+	<link rel="apple-touch-startup-image" href="apple-touch-startup-image-1536x2008.png" 
+	media="(device-width: 1536px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)">
+	
+	<link rel="apple-touch-startup-image" href="apple-touch-startup-image-2048x1496.png" 
+	media="(device-width: 1536px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)">
  
 	<title>blah</title>
 	</head>
